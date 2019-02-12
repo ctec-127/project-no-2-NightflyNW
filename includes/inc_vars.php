@@ -22,8 +22,4 @@ $parking = array("no","no","no","yes","yes","yes");
 
 $shuttle = array("yes","yes","yes","yes","yes","yes");
 
-
-
-
-
 ?>
